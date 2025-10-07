@@ -12,7 +12,7 @@ JobQuest is a 'Job Portal' web application made using Java SpringBoot and ReactJ
 
 ## Demo
 
-You can check out the live demo of JobQuest [here](https://job-quest-client.vercel.app/).
+You can check out the live demo of JobQuest [here].
 
 ### Screenshots
 
@@ -68,7 +68,7 @@ Before getting started, make sure you have the following installed on your machi
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Krishnanand2517/job-quest-java
+   git clone https://github.com/Akshitkalra/JOBQUEST-SPRINGBOOT-REACT.JS
    cd job-quest-java
    ```
 
