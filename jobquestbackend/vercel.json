@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "pom.xml",
+      "use": "@vercel/java"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/.*",
+      "dest": "/"
+    }
+  ],
+  "env": {
+    "MONGO_DATABASE": "@mongo_database",
+    "MONGO_USER": "@mongo_user", 
+    "MONGO_PASSWORD": "@mongo_password",
+    "MONGO_CLUSTER": "@mongo_cluster",
+    "JWT_SECRET_KEY": "@jwt_secret_key",
+    "JWT_EXPIRATION": "@jwt_expiration"
+  }
+}
