@@ -104,7 +104,4 @@ Before getting started, make sure you have the following installed on your machi
 
 If you encounter any issues, have suggestions, or want to contribute, feel free to open an issue or submit a pull request. Happy coding!
 # JOBQUEST-SPRINGBOOT-REACT.JS
-# JOBQUEST-SPRINGBOOT-REACT.JS
-# JOBQUEST-SPRINGBOOT-REACT.JS
-# JOBQUEST-SPRINGBOOT-REACT.JS
-# JOBQUEST-SPRINGBOOT-REACT.JS
+
